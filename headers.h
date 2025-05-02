@@ -3,6 +3,9 @@
 #include <iostream>
 #include <string>
 #include <iomanip>
+#include <vector>
+#include <cmath>
+#include <algorithm>
 
 //=================================================================
 
